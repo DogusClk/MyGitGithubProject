@@ -11,6 +11,9 @@ public class AtmApp {
         System.out.println("giti ogrenmek cok kolay");
         System.out.println("dogus branchi yeni bir ozellik ekledi");
 
+        //master
+        System.out.println("master branchinde yeni ozellikler var");
+
 
     }
 }
