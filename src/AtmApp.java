@@ -14,6 +14,11 @@ public class AtmApp {
         //master
         System.out.println("master branchinde yeni ozellikler var");
 
+        //dgs3
+        System.out.println("dogus branchi bir adim onde");
+
+
+
 
     }
 }
