@@ -17,6 +17,8 @@ public class AtmApp {
         //dgs3
         System.out.println("dogus branchi bir adim onde");
 
+        System.out.println("bazi degisiklikler yaptim, ancak commitlemedim");
+
 
 
 
