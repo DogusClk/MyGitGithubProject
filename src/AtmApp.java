@@ -9,6 +9,7 @@ public class AtmApp {
         System.out.println("learn lava earn money");
         //version4
         System.out.println("giti ogrenmek cok kolay");
+        System.out.println("dogus branchi yeni bir ozellik ekledi");
 
 
     }
